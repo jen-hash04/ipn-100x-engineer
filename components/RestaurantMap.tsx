@@ -7,6 +7,8 @@
  * This entire file is unused and should be removed
  */
 
+/* eslint-disable no-console, no-unused-vars */
+
 'use client';
 
 import { useEffect, useRef } from 'react';
